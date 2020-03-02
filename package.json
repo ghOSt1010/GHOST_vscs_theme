@@ -1,0 +1,46 @@
+{
+   "name": "theme-ghostdark",
+   "displayName": "GhOSt_Dark",
+   "description": "GhOSt_Dark",
+   "version": "0.0.1",
+   "publisher": "GhOSt",
+   "engines": {
+      "vscode": "^1.0.0"
+   },
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/ghOSt1010/GHOST_vscs_theme.git"
+   },
+   "categories": [
+      "Themes"
+   ],
+   "icon": "icon.png",
+   "keywords": [
+      "GhOSt",
+      "theme",
+      "dark"
+   ],
+   "galleryBanner": {
+      "color": "#B580D9",
+      "theme": "dark"
+   },
+   "contributes": {
+      "themes": [
+         {
+            "label": "GhOSt_Mojave",
+            "uiTheme": "vs-dark",
+            "path": "./themes/GhOSt_Mojave.json"
+         },
+         {
+            "label": "GhoSt",
+            "uiTheme": "vs-dark",
+            "path": "./themes/GhOSt.json"
+         },
+         {
+            "label": "GhoSt_light",
+            "uiTheme": "vs",
+            "path": "./themes/GhOSt_light.json"
+         }
+      ]
+   }
+}
