@@ -8,10 +8,8 @@ You can author your README using Visual Studio Code. Here are some useful editor
 -  Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
 -  Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
 
-### For more information
-
--  Screenshot
-   ![Screenshot](https://github.com/ghOSt1010/GHOST_vscs_theme/blob/master/screenshot.PNG)
+### Screenshot
+![Screenshot](https://github.com/ghOSt1010/GHOST_vscs_theme/blob/master/screenshot.PNG)
 
 ### For more information
 
