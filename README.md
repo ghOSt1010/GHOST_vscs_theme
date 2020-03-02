@@ -11,7 +11,7 @@ You can author your README using Visual Studio Code. Here are some useful editor
 ### For more information
 
 -  Screenshot
-   ![Screenshot](https://github.com/ghOSt1010/GHOST_vscs_theme/screenshot.png)
+   ![Screenshot](https://github.com/ghOSt1010/GHOST_vscs_theme/blob/master/screenshot.PNG)
 
 ### For more information
 
