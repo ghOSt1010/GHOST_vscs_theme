@@ -948,6 +948,21 @@
          }
       },
       {
+         "name": "imports",
+         "scope": [
+            "keyword.control.import.js.jsx",
+            "meta.import.js.jsx",
+            "keyword.control.import.js",
+            "meta.import.js",
+            "keyword.control.from.js.jsx",
+            "keyword.control.from.js"
+         ],
+         "settings": {
+            "foreground": "#8BE9FD",
+            "fontStyle": "regular"
+         }
+      },
+      {
          "name": "Shell variables prefixed with \"$\" (edge case)",
          "scope": ["source.shell variable.other"],
          "settings": {

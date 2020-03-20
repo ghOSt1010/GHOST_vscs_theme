@@ -40,6 +40,11 @@
             "label": "GhoSt_light",
             "uiTheme": "vs",
             "path": "./themes/GhOSt_light.json"
+         },
+         {
+            "label": "GhoSt_Neon",
+            "uiTheme": "vs",
+            "path": "./themes/GhOSt_Neon.json"
          }
       ]
    }

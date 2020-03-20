@@ -6,14 +6,14 @@
    "main_colors": {
       "background": "#1D1F21",
       "text": "#222222",
-      "comment": "#5f646a",
+      "comment": "#777d85",
       "grey": "#767676",
       "blue": "#0071eb",
-      "lightblue": "#03afd3",
+      "lightblue": "#039aba",
       "neonGreen": "#788106",
       "orange": "#e17600",
-      "green": "#04a82f",
-      "violet": "#4c09ac",
+      "green": "#038f28",
+      "violet": "#6e11f3",
       "red": "#FF0808"
    },
    "colors": {
@@ -111,7 +111,7 @@
       {
          "scope": ["header"],
          "settings": {
-            "foreground": "#4c09ac"
+            "foreground": "#6e11f3"
          }
       },
       {
@@ -129,7 +129,7 @@
       {
          "scope": ["markup.inserted"],
          "settings": {
-            "foreground": "#04a82f"
+            "foreground": "#038f28"
          }
       },
       {
@@ -190,7 +190,7 @@
          "scope": ["markup.heading"],
          "settings": {
             "fontStyle": "bold",
-            "foreground": "#4c09ac"
+            "foreground": "#6e11f3"
          }
       },
       {
@@ -216,7 +216,7 @@
          "name": "Inline code (prose)",
          "scope": ["markup.inline.raw", "markup.raw.restructuredtext"],
          "settings": {
-            "foreground": "#04a82f"
+            "foreground": "#038f28"
          }
       },
       {
@@ -261,14 +261,14 @@
             "markup.fenced_code.block.markdown punctuation.definition.markdown"
          ],
          "settings": {
-            "foreground": "#04a82f"
+            "foreground": "#038f28"
          }
       },
       {
          "name": "Prose constants",
          "scope": ["punctuation.definition.constant.restructuredtext"],
          "settings": {
-            "foreground": "#4c09ac"
+            "foreground": "#6e11f3"
          }
       },
       {
@@ -341,7 +341,7 @@
             "wildcard.comment"
          ],
          "settings": {
-            "foreground": "#5f646a"
+            "foreground": "#777d85"
          }
       },
       {
@@ -424,7 +424,7 @@
          "name": "HTML/CSS attribute names",
          "scope": ["entity.other.attribute-name"],
          "settings": {
-            "foreground": "#04a82f",
+            "foreground": "#038f28",
             "fontStyle": ""
          }
       },
@@ -451,7 +451,7 @@
             "support.function.misc.css"
          ],
          "settings": {
-            "foreground": "#04a82f"
+            "foreground": "#038f28"
          }
       },
       {
@@ -477,7 +477,7 @@
             "meta.decorator variable.other.property"
          ],
          "settings": {
-            "foreground": "#04a82f",
+            "foreground": "#038f28",
             "fontStyle": "italic"
          }
       },
@@ -518,7 +518,7 @@
          "scope": ["support"],
          "settings": {
             "fontStyle": "italic",
-            "foreground": "#4c09ac"
+            "foreground": "#6e11f3"
          }
       },
       {
@@ -530,7 +530,7 @@
          ],
          "settings": {
             "fontStyle": "regular",
-            "foreground": "#4c09ac"
+            "foreground": "#6e11f3"
          }
       },
       {
@@ -538,7 +538,7 @@
          "scope": ["support.function"],
          "settings": {
             "fontStyle": "regular",
-            "foreground": "#03afd3"
+            "foreground": "#039aba"
          }
       },
       {
@@ -642,7 +642,7 @@
             "variable.other.key.toml"
          ],
          "settings": {
-            "foreground": "#4c09ac"
+            "foreground": "#6e11f3"
          }
       },
       {
@@ -657,7 +657,7 @@
          "scope": ["variable.other.alias.yaml"],
          "settings": {
             "fontStyle": "italic underline",
-            "foreground": "#04a82f"
+            "foreground": "#038f28"
          }
       },
       {
@@ -699,7 +699,7 @@
          ],
          "settings": {
             "fontStyle": "",
-            "foreground": "#03afd3"
+            "foreground": "#039aba"
          }
       },
       {
@@ -776,7 +776,7 @@
          "name": "Positive lookaheads",
          "scope": ["meta.assertion.look-ahead.regexp"],
          "settings": {
-            "foreground": "#04a82f"
+            "foreground": "#038f28"
          }
       },
       {
@@ -890,7 +890,7 @@
          "name": "Shell variables prefixed with \"$\" (edge case)",
          "scope": ["source.shell variable.other"],
          "settings": {
-            "foreground": "#4c09ac"
+            "foreground": "#6e11f3"
          }
       },
       {
