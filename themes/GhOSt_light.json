@@ -522,6 +522,13 @@
          }
       },
       {
+         "name": "Class Component JSX @beta",
+         "scope": ["support.class.component.js.jsx"],
+         "settings": {
+            "foreground": "#4f3ccb"
+         }
+      },
+      {
          "name": "Built-in magic functions and constants",
          "scope": [
             "support.function.magic",
