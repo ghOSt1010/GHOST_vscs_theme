@@ -6,7 +6,7 @@
    "main_colors": {
       "background": "#1D1F21",
       "text": "#F8F8F2",
-      "comment": "#6e84a4",
+      "comment": "#7898b8",
       "grey": "#767676",
       "blue": "#76bdff",
       "lightblue": "#8BE9FD",
@@ -324,7 +324,7 @@
             "wildcard.comment"
          ],
          "settings": {
-            "foreground": "#6e84a4"
+            "foreground": "#7898b8"
          }
       },
       {
