@@ -6,7 +6,7 @@
    "main_colors": {
       "background": "#1D1F21",
       "text": "#F8F8F2",
-      "comment": "#506686",
+      "comment": "#6e84a4",
       "grey": "#767676",
       "blue": "#6cb3ff",
       "lightblue": "#8BE9FD",
@@ -288,7 +288,7 @@
          "name": "User-defined class names",
          "scope": ["entity.name.type.class"],
          "settings": {
-            "foreground": "#FFFFFF",
+            "foreground": "#8BE9FD",
             "fontStyle": ""
          }
       },
@@ -324,7 +324,7 @@
             "wildcard.comment"
          ],
          "settings": {
-            "foreground": "#506686"
+            "foreground": "#6e84a4"
          }
       },
       {
@@ -500,7 +500,7 @@
          "scope": ["support"],
          "settings": {
             "fontStyle": "italic",
-            "foreground": "#BD93F9"
+            "foreground": "#8BE9FD"
          }
       },
       {

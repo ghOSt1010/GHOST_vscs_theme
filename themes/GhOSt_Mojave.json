@@ -12,7 +12,7 @@
       "lightblue": "#8BE9FD",
       "neonGreen": "#F1FA8C",
       "orange": "#FFB86C",
-      "green": "#50FA7B",
+      "green": "#5afa85",
       "violet": "#BD93F9",
       "red": "#FF0808"
    },
@@ -31,7 +31,7 @@
       "inputValidation.infoBackground": "#323334",
       "inputValidation.infoBorder": "#FFFFFF",
       "inputValidation.warningBackground": "#323334",
-      "inputValidation.warningBorder": "#50FA7B",
+      "inputValidation.warningBorder": "#5afa85",
       "inputValidation.errorBackground": "#323334",
       "inputValidation.errorBorder": "#ff3333",
       "dropdown.background": "#323334",
@@ -191,7 +191,7 @@
       {
          "scope": ["markup.inserted"],
          "settings": {
-            "foreground": "#50FA7B"
+            "foreground": "#5afa85"
          }
       },
       {
@@ -278,7 +278,7 @@
          "name": "Inline code (prose)",
          "scope": ["markup.inline.raw", "markup.raw.restructuredtext"],
          "settings": {
-            "foreground": "#50FA7B"
+            "foreground": "#5afa85"
          }
       },
       {
@@ -323,7 +323,7 @@
             "markup.fenced_code.block.markdown punctuation.definition.markdown"
          ],
          "settings": {
-            "foreground": "#50FA7B"
+            "foreground": "#5afa85"
          }
       },
       {
@@ -367,7 +367,7 @@
          "name": "User-defined class names",
          "scope": ["entity.name.type.class"],
          "settings": {
-            "foreground": "#FFFFFF",
+            "foreground": "#8BE9FD",
             "fontStyle": ""
          }
       },
@@ -485,7 +485,7 @@
          "name": "HTML/CSS attribute names",
          "scope": ["entity.other.attribute-name"],
          "settings": {
-            "foreground": "#50FA7B",
+            "foreground": "#5afa85",
             "fontStyle": ""
          }
       },
@@ -512,7 +512,7 @@
             "support.function.misc.css"
          ],
          "settings": {
-            "foreground": "#50FA7B"
+            "foreground": "#5afa85"
          }
       },
       {
@@ -538,7 +538,7 @@
             "meta.decorator variable.other.property"
          ],
          "settings": {
-            "foreground": "#50FA7B",
+            "foreground": "#5afa85",
             "fontStyle": "italic"
          }
       },
@@ -579,7 +579,7 @@
          "scope": ["support"],
          "settings": {
             "fontStyle": "italic",
-            "foreground": "#BD93F9"
+            "foreground": "#8BE9FD"
          }
       },
       {
@@ -718,7 +718,7 @@
          "scope": ["variable.other.alias.yaml"],
          "settings": {
             "fontStyle": "italic underline",
-            "foreground": "#50FA7B"
+            "foreground": "#5afa85"
          }
       },
       {
@@ -837,7 +837,7 @@
          "name": "Positive lookaheads",
          "scope": ["meta.assertion.look-ahead.regexp"],
          "settings": {
-            "foreground": "#50FA7B"
+            "foreground": "#5afa85"
          }
       },
       {
